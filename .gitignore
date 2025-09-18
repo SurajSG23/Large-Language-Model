@@ -1,0 +1,5 @@
+my_saved_models
+llms_course_env
+config.py
+.ipynb_checkpoints
+__pycache__
