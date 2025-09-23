@@ -3,7 +3,7 @@
 ├── Module-1.ipynb    # OpenAI and Gemini AI Setup and Text Generation
 ├── Module-2.ipynb    # Sentiment Analysis and NER with Hugging Face
 ├── Module-3.ipynb    # Question Answering with BERT
-├── Module-4.ipynb    # Text Classification with XLNet=
+├── Module-4.ipynb    # Text Classification with XLNet
 ├── config.py         # API Key Configuration
 ```
 
